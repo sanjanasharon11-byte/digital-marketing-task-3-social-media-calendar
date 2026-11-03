@@ -1,86 +1,241 @@
-# 30-Day Social Media Growth & Content Calendar
+# Digital Marketing Internship Project
 
-## Student Details
-
-**Name:** Sanjana Sharon  
-**Programme:** MBA Semester 1  
+**Prepared by:** Sanjana Sharon  
+**Program:** MBA – Semester 1  
 **University:** SRM University  
+**Project Area:** Digital Marketing  
 
-## Task Objective
+---
 
-The objective of this task is to develop a 30-day social media growth and content strategy for **Saasha Gracy Studio**, a western-wear fashion brand.
+## 📌 Project Overview
 
-The strategy focuses on building brand awareness, increasing audience engagement, showcasing products, educating the audience about fashion and creating opportunities for customer conversion.
+This repository contains the complete set of tasks completed as part of my Digital Marketing Internship. The project covers **SEO, Paid Advertising, and Social Media Marketing**, providing a practical understanding of how digital marketing strategies can be planned, executed, and measured for a fashion brand.
 
-## Platforms
+The project is developed around **Saasha Gracy Studio**, a western-wear clothing brand.
 
-- LinkedIn
-- X (Twitter)
+---
 
-## Content Strategy
+# 📂 Tasks Included
 
-The 30-day calendar uses different content pillars to maintain variety and consistent audience engagement:
+## Task 1 – Comprehensive SEO Audit & Keyword Strategy
 
-- Brand Introduction
-- Brand Story
-- Fashion Tips
-- Fashion Education
-- Product Focus
-- Fashion Trends
-- Community Engagement
-- Behind the Scenes
-- Founder/Business Content
-- Calls to Action
+### Objective
+To conduct a comprehensive SEO audit and develop a keyword strategy for improving the online visibility of Saasha Gracy Studio.
 
-## Content Calendar
+### Deliverables
+- SEO Audit
+- 50-Keyword Strategy
+- Technical SEO Checklist
+- Keyword research and categorization
+- SEO improvement recommendations
 
-The attached Excel spreadsheet contains the complete 30-day social media calendar.
+### Key Areas Covered
+- On-page SEO
+- Technical SEO
+- Keyword research
+- Search intent
+- Website optimization
+- Content opportunities
+- SEO recommendations
 
-Each day includes:
+### Expected Outcome
+The objective is to improve organic search visibility, attract relevant visitors, and create a stronger foundation for long-term SEO growth.
 
-- Day
-- Platform
-- Content Pillar
-- Hook
-- Content Idea
-- CTA
-- Content Format
-- Graphic Brief
-- Goal
+---
 
-## Growth Strategy
+# Task 2 – Paid Advertising Blueprint
 
-The social media growth strategy focuses on:
+### Objective
+To create a paid digital advertising strategy using **Meta Ads and Google Ads** to generate qualified traffic, product discovery, and first purchases.
 
-1. Consistent posting throughout the 30-day period.
-2. Using strong hooks to capture attention.
-3. Creating educational and useful fashion content.
-4. Using polls and questions to encourage interaction.
-5. Showcasing products through styling ideas.
-6. Building brand personality through behind-the-scenes content.
-7. Using clear calls to action.
-8. Testing different content formats.
-9. Encouraging comments, shares and saves.
-10. Reviewing performance and improving future content.
+### Target Audience
+- Women aged 18–34
+- Students
+- Early-career professionals
+- Fashion-conscious online shoppers
+- Customers interested in western wear and fashion
 
-## Key Performance Indicators
+### Target Locations
+Priority urban markets in India, including:
+- Chennai
+- Bengaluru
+- Hyderabad
+- Mumbai
+- Delhi NCR
+- Pune
 
-The main KPIs for measuring performance are:
+### Advertising Channels
+**Meta Ads**
+- Instagram Reels
+- Carousel Ads
+- Collection Ads
+- Retargeting Ads
 
-- Impressions
+**Google Ads**
+- Search Ads
+- High-intent keyword targeting
+- Category-specific landing pages
+
+### Campaign Funnel
+
+**Awareness → Consideration → Conversion → Retention**
+
+### Budget Plan
+
+| Channel | Budget | Percentage |
+|---|---:|---:|
+| Meta Ads | ₹18,000 | 60% |
+| Google Ads | ₹9,000 | 30% |
+| Creative Testing | ₹3,000 | 10% |
+| **Total** | **₹30,000** | **100%** |
+
+### Key Performance Metrics
 - Reach
-- Engagement rate
-- Likes
-- Comments
-- Shares
-- Saves
-- Profile visits
-- Followers gained
-- Link clicks
-- Product/website visits
+- Impressions
+- CTR
+- CPC
+- Landing Page Views
+- Add-to-Cart
+- Conversion Rate
+- CPA
+- ROAS
+- Engagement
+- Creative Performance
 
-## Deliverable
+### Expected Outcome
+The campaign aims to increase brand awareness, website traffic, customer engagement, and conversions while identifying the best-performing audiences and creatives.
 
-**File:** `Sanjana_Sharon_Task3_30_Day_Content_Calendar.xlsx`
+---
 
-This repository contains the completed 30-day social media growth and content calendar prepared as part of the Digital Marketing & Branding Internship.
+# Task 3 – 30-Day Social Media Growth & Content Calendar
+
+### Objective
+To create a structured 30-day social media content plan that builds brand awareness, engagement, community, and product discovery for Saasha Gracy Studio.
+
+### Content Platforms
+- Instagram
+- Other relevant social media platforms
+
+### Content Strategy
+
+The calendar focuses on different content pillars such as:
+
+- Product Promotion
+- Fashion & Styling
+- Educational Content
+- Engagement Content
+- Brand Storytelling
+- Trends
+- Customer-focused Content
+- Promotional Content
+
+### Content Calendar Includes
+
+Each content entry contains:
+
+- **Day**
+- **Platform**
+- **Content Pillar**
+- **Hook**
+- **Content Idea**
+- **CTA**
+- **Format**
+- **Graphic Brief**
+
+### Content Formats
+- Reels
+- Carousels
+- Static Posts
+- Stories
+- Promotional Content
+- Engagement Posts
+
+### Expected Outcome
+
+The 30-day social media plan is designed to maintain consistent posting, increase engagement, strengthen brand identity, showcase products, and encourage customers to explore and purchase from Saasha Gracy Studio.
+
+---
+
+# 🎯 Overall Digital Marketing Strategy
+
+The three tasks work together as one integrated digital marketing strategy:
+
+### SEO
+**Attract organic traffic**
+
+⬇️
+
+### Paid Advertising
+**Reach targeted customers and generate traffic**
+
+⬇️
+
+### Social Media
+**Build engagement, brand awareness and community**
+
+⬇️
+
+### Conversion
+**Turn interested users into customers**
+
+⬇️
+
+### Retention
+**Encourage repeat engagement and purchases**
+
+---
+
+# 🛠️ Tools & Skills Used
+
+- SEO Audit
+- Keyword Research
+- Digital Advertising
+- Meta Advertising Strategy
+- Google Search Advertising
+- Social Media Marketing
+- Content Planning
+- Audience Targeting
+- Marketing Analytics
+- Campaign Planning
+- Excel / Spreadsheet Analysis
+- PowerPoint Presentation
+- GitHub Repository Management
+
+---
+
+# 📁 Repository Structure
+
+```text
+Digital-Marketing-Internship/
+│
+├── Task-1-SEO-Audit/
+│   ├── SEO-Audit.xlsx
+│   ├── Keyword-Strategy.xlsx
+│   └── Technical-SEO-Checklist.xlsx
+│
+├── Task-2-Paid-Advertising/
+│   ├── Paid-Advertising-Blueprint.pptx
+│   └── Task-2-Images/
+│
+├── Task-3-Social-Media/
+│   └── 30-Day-Social-Media-Calendar.xlsx
+│
+└── README.md
+```
+
+---
+
+# 👩‍💼 About the Project
+
+This project demonstrates the practical application of digital marketing concepts to a real-world fashion business. The strategy combines **organic search, paid advertising, and social media content marketing** to create an integrated customer acquisition and engagement approach.
+
+---
+
+## 👤 Author
+
+**Sanjana Sharon**  
+MBA – Semester 1  
+SRM University  
+
+**Project Brand:** Saasha Gracy Studio  
+**Industry:** Fashion / Western Wear
